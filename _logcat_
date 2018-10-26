@@ -1,0 +1,2 @@
+#!/bin/sh
+adb push enable_dev_mode.bat /sdcard/Android/data/com.wa.waclient/_development_
